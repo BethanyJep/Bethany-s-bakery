@@ -20,13 +20,14 @@ Data: find the complete [AI generated bakery data here.](/product.md)
 ![an image of a cake, in this case, red velvet.](images/red_velvet.jpg)
 Image: an image of a cake, in this case, red velvet.
 
-Prompt: how much can I get for a similiar cake from the bakery?
+Prompt 1: which cake does the image most closely resemble?
+
+Prompt 2: how much is the cupcake?
 
 ## Video prompts
-![a video featuring a cake, with the text "A taste of home", "affordable" and "Delicious"](images/ad.mp4)
+![a video featuring a cake, with the text "A taste of home", "affordable" and "Delicious"](images/ad.gif)
 Video: a video featuring a cake, with the text "A taste of home", "affordable" and "Delicious"
 
 Prompt 1: can you share what the video is about?
 
 Prompt 2: how can I turn the video into an advertisment and make it more appealing to customers?
-
