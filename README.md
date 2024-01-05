@@ -1,6 +1,10 @@
 # Bethany's bakery
 Using Azure AI Vision to enhance GPT-4 Turbo with Vision Responses
 
+Among my resolutions for this year, I've decided to embark on a delicious journey - baking. My love for sugary treats has inspired me to bring the bakery home. Why step outside when I can whip up my own delights? You might be wondering what any of this has to do with Azure or Open AI. Well, as with any journey, I need a roadmap on how to get started. So I wanted to learn how to make, not just any cake, but a delicious red velvet cake I had a few months ago. Using GPT-4 turbo with vision, I can upload an image of the cake and request for a recipe. GPT-4 with vision model allows images as prompts and the possibilities are endless, not only for your personal requests but also for your business.
+
+In this repo, I have compiled the images and prompts you can use to enhance your GPT-4 wiith Vision responses.
+
 ## Cake recipe
 ![an image of a cake, in this case, red velvet.](images/red_velvet.jpg)
 Image: an image of a cake, in this case, red velvet.
